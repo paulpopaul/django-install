@@ -1,5 +1,5 @@
 # django-install
-easy guide to how install django
+easy steps to how install django
 
 ## 1.- INSTALAR PYTHON<br>
 https://www.python.org/downloads/
