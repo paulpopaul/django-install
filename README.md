@@ -21,7 +21,7 @@ virtualenv trirotaryenv -p python3.8
 <br>
 <br>
 
-## 6.- ACTIVAR ENTORNO VIRTAL
+## 6.- ACTIVAR ENTORNO VIRTUAL
 source trirotaryenv/bin/activate
 <br>
 <br>
