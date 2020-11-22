@@ -1,3 +1,4 @@
+https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg
 # django-install
 easy steps to how install django
 
