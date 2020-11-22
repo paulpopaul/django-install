@@ -1,22 +1,16 @@
 # django-install
 
-# 1
-INSTALAR PYTHON<br>
+# 1 INSTALAR PYTHON<br>
 https://www.python.org/downloads/
 
-
-# 2
-INSTALAR PIP<br>
+# 2 INSTALAR PIP<br>
 sudo easy_install pip
 
-
-# 3
-INSTALAR ENTORNO VIRTUAL<br>
+# 3 INSTALAR ENTORNO VIRTUAL<br>
 pip install virtualenv
 
 
-# 4
-CREAR ENTORNO VIRTUAL<br>
+# 4 CREAR ENTORNO VIRTUAL<br>
 virtualenv trirotaryenv -p python3.8
 
 
