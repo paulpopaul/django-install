@@ -45,7 +45,7 @@ pip install -r requierement.txt
 <br>
 
 ## 10.- CREAR PROYECTO EN DJANGO
-django-admin.py startproject trirotaryenv
+django-admin.py startproject trirotaryweb
 <br>
 <br>
 
