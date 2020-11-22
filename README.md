@@ -1,6 +1,6 @@
 # django-install
 
-# 1 INSTALAR PYTHON<br>
+## 1 INSTALAR PYTHON<br>
 https://www.python.org/downloads/
 
 # 2 INSTALAR PIP<br>
